@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Profile</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Ewang Gilles Paques</h1>
+        <p>Welcome to my personal profile page.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>
+                I am a beginner web developer learning HTML, CSS, and JavaScript.
+                I enjoy building websites and improving my programming skills.
+            </p>
+        </section>
+
+        <section>
+            <h2>My Interests</h2>
+            <ul>
+                <li>Web Development</li>
+                <li>Programming</li>
+                <li>Technology</li>
+                <li>Learning new skills</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>My GitHub</h2>
+            <p>
+                You can view my projects here:
+                <a href="https://github.com/paquesjunior55-source" target="_blank">
+                    Visit my GitHub
+                </a>
+            </p>
+        </section>
+
+        <section>
+            <h2>My Picture</h2>
+            <img src="profile.jpg" alt="My profile picture">
+        </section>
+    </main>
+
+    <footer>
+        <p>©️ 2026 Ewang Gilles Paques</p>
+    </footer>
+
+</body>
+</html>
