@@ -19,3 +19,13 @@ function biggestNumber(a,b,c){
   }
 }
 console.log(bigestNumber(5,10,3));
+
+//reverse a string 
+function reverseWord(Word){
+  let results ="";
+  for (let i=word.lenght - 1; i>= o;i--){
+    results = results + word(i);
+  }
+  return result;
+}
+console.log(reverseWord("hello"))
